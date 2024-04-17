@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|f:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\opencv\\imageprocessing\\opencv\\opencv_imageprocessingbasic\\correctionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\correctionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\opencv_imageprocessingbasic\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|f:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\opencv\\imageprocessing\\opencv\\opencv_imageprocessingbasic\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\imageprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|f:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\opencv\\imageprocessing\\opencv\\opencv_imageprocessingbasic\\graphicspicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\graphicspicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\opencv_imageprocessingbasic\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|f:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\opencv\\imageprocessing\\opencv\\opencv_imageprocessingbasic\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5FE354-ED06-4381-8DD8-BACEFC347DCD}|OpenCV_ImageProcessingBasic\\OpenCV_ImageProcessingBasic.csproj|solutionrelative:opencv_imageprocessingbasic\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrectionClass.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\CorrectionClass.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\CorrectionClass.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\CorrectionClass.cs",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\CorrectionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:21:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicsPicture.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\GraphicsPicture.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\GraphicsPicture.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\GraphicsPicture.cs",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\GraphicsPicture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:37:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\Filters.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\Filters.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\Filters.cs",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\Filters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:47:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Method.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\Method.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\Method.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\Method.cs",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\Method.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:51:40.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageProcessing.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwv00AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:40:55.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProcessing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "RelativeDocumentMoniker": "OpenCV_ImageProcessingBasic\\ImageProcessing.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\OpenCV\\ImageProcessing\\OpenCV\\OpenCV_ImageProcessingBasic\\ImageProcessing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OpenCV_ImageProcessingBasic\\ImageProcessing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:23:20.088Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

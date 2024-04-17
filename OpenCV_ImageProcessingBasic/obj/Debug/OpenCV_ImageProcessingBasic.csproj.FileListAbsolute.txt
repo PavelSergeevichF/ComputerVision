@@ -1,0 +1,12 @@
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\bin\Debug\OpenCV_ImageProcessingBasic.exe.config
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\bin\Debug\OpenCV_ImageProcessingBasic.exe
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\bin\Debug\OpenCV_ImageProcessingBasic.pdb
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\bin\Debug\OpenCvSharp.dll
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.csproj.AssemblyReference.cache
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.ImageProcessing.resources
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.Properties.Resources.resources
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.csproj.GenerateResource.cache
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.csproj.CoreCompileInputs.cache
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_I.0D1A97C5.Up2Date
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.exe
+F:\программирование\OpenCV\ImageProcessing\OpenCV\OpenCV_ImageProcessingBasic\obj\Debug\OpenCV_ImageProcessingBasic.pdb
